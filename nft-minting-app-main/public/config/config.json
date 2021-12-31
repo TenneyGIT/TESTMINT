@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB3CC78fF5d89AbC7049DC0DC9dcd25F04D039a14",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0xb3cc78ff5d89abc7049dc0dc9dcd25f04d039a14",
+  "NETWORK": {
+    "NAME": "BSC Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "TEST",
+  "SYMBOL": "TEST",
+  "MAX_SUPPLY": 40,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "None",
+  "MARKETPLACE_LINK": "#",
+  "SHOW_BACKGROUND": true
+}
